@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>about.travel_agency</title>
+    <link rel="stylesheet" href="aboutStyle.css">
+    <meta name="viweport" content="widthhtml=device-width,initail-scale=1.0">
+</head>
+<body>
+    <section class="about">
+        <div class="content">
+            <img src="image/travel-concept-with-baggage.jpg">
+            <div class="text">
+                <h1>About Us</h1>
+                <h2>Travel Agency<hr width=34%></h2>
+                <p>
+                    Thanks for visiting travel agancy.com. travel agancy is an educational portal
+                    which provides information, study material of travel and tourism industry as well
+                    as related industry.<br><br>
+                    Here we publish Travel & Tourism Notes and the material which helps you in your 
+                    education. Our Team is working hard to give you the best user experience and
+                     good educational resources.
+                </p>
+                <button type="button">Click Here</button>
+                <!-- <button class="button"><a href="#">Login</a></button> -->
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>
